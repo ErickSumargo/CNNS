@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CNNS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_search">Search</string>
+
+    <string-array name="registrations">
+        <item>No. HP</item>
+        <item>Kode Verifikasi</item>
+        <item>Data Pribadi</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="about">
+        <![CDATA[
+        \"Aplikasi CNNS\" adalah aplikasi pemberitaan digital di mana Anda bisa: menjelajah, membaca dan/atau menggunakan Konten Digital atau item-item lain yang kami tawarkan untuk satu penggunaan perangkat-perangkat Android dan mengelola Konten Digital dan pengaturan akun Anda.
+        <br></br>
+        <br></br>
+        \"Layanan\" artinya layanan Konten Digital yang disediakan oleh Aplikasi CNNS untuk para pengguna aplikasi pemberitaan ini.
+        <br></br>
+        <br></br>
+        \"Posting Pengguna\" adalah fitur-fitur tertentu pada Layanan kami yang memungkinkan Anda dan pengguna lain untuk memasang sesuatu pada Layanan kami, atau menyampaikan pada kami konten, termasuk, teks, data, foto, grafis, gambar, informasi, dan segala kombinasi dari unsur ini.
+        <br></br>
+        <br></br>
+        Syarat dan Ketentuan Penggunaan aplikasi ini adalah sebuah perjanjian antara Anda dan aplikasi CNNS.
+        <br></br>
+        <br></br>
+        Syarat Penggunaan, Kebijakan Pribadi, Kebijakan Penemuan, Kebijakan Dukungan Pencipta, dan syarat-syarat dan kebijakan lain yang berlaku ini akan meliputi segala persetujuan antara Anda dan aplikasi CNNS.
+        <br></br>
+        <br></br>
+        About us :
+        <br></br>
+        <b>KHAIRUDDIN ANWAR HASIBUAN</b> (NIM. 121112988)
+        <br></br>
+        <b>JUMONGKAS FERNANDUS SIREGAR</b> (NIM. 121113690)
+        <br></br>
+        <b>JULIANDI</b> (NIM. 131110135)
+        ]]>
+    </string>
+</resources>

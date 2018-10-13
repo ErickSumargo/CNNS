@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_menu_login"
+            android:title="Login" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_login"
+            android:title="Profil"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_post_news"
+            android:icon="@drawable/ic_menu_post_news"
+            android:title="Buat Berita"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_most_popular"
+            android:icon="@drawable/ic_menu_most_popular"
+            android:title="Most Popular" />
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/ic_menu_location"
+            android:title="Lokasi Rawan" />
+        <item
+            android:id="@+id/nav_report"
+            android:icon="@drawable/ic_menu_report"
+            android:title="Laporan" />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/ic_menu_video"
+            android:title="Video" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_menu_about"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_menu_logout"
+            android:title="Logout"
+            android:visible="false" />
+    </group>
+
+</menu>

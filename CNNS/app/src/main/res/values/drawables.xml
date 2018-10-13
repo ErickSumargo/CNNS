@@ -1,0 +1,10 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_login" type="drawable">@drawable/ic_account_circle</item>
+    <item name="ic_menu_post_news" type="drawable">@drawable/ic_create</item>
+    <item name="ic_menu_most_popular" type="drawable">@drawable/ic_whatshot</item>
+    <item name="ic_menu_location" type="drawable">@drawable/ic_location_on</item>
+    <item name="ic_menu_report" type="drawable">@drawable/ic_report</item>
+    <item name="ic_menu_video" type="drawable">@drawable/ic_video_library</item>
+    <item name="ic_menu_about" type="drawable">@drawable/ic_info</item>
+    <item name="ic_menu_logout" type="drawable">@drawable/ic_arrow_forward</item>
+</resources>
